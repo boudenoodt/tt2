@@ -1,5 +1,6 @@
 tt2
 ===
+<table>
 <td>
 <tr><th>Variable-Column names in the tidy dataset</th></tr>
 <tr>subject_id</tr>
@@ -84,3 +85,4 @@ tt2
 <tr>mean.of.freqBodyGyroJerkMag.std</tr>     
 <tr>mean.of.freqBodyGyroJerkMag.meanFreq</tr>
 </td>
+</table>

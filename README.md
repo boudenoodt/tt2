@@ -2,7 +2,7 @@ tt2
 ===
 <table>
 <td>
-<tr><th>Variable-Column names in the tidy dataset</th></tr>
+<tr>Variable-Column names in the tidy dataset</tr>
 <tr>subject_id</tr>
 <tr>activity</tr>                            
 <tr>mean.of.timeBodyAcc.mean.X</tr>          

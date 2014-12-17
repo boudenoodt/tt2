@@ -1,10 +1,9 @@
-tt2
-===
+## The "processed - tidy" data
+
 <table>
 <td>
-<tr>Variable-Column names in the tidy dataset</tr>
 <tr>subject_id</tr>
-<tr>activity</tr>                            
+<tr>activity</tr>
 <tr>mean.of.timeBodyAcc.mean.X</tr>          
 <tr>mean.of.timeBodyAcc.mean.Y</tr>          
 <tr>mean.of.timeBodyAcc.mean.Z</tr>          
@@ -86,3 +85,7 @@ tt2
 <tr>mean.of.freqBodyGyroJerkMag.meanFreq</tr>
 </td>
 </table>
+
+
+
+
